@@ -741,8 +741,9 @@
     {
       "@id": "https://repolex.ai/r/markedjs/marked/commit/e07037e943f75f3f941785af49d57d2f59780f71",
       "git:hexsha": "e07037e943f75f3f941785af49d57d2f59780f71",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v17.0.6"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v17.0.6",
+      "repolex:parsedAt": "2026-04-10T13:02:23.981474+00:00"
     },
     {
       "@id": "https://repolex.ai/r/markedjs/marked/commit/8a7502f54fcc236027ae38e5432c4caf30accf23",
